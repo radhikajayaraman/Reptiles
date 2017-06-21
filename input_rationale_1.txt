@@ -1,0 +1,35 @@
+http://localhost:2770/compute-media-package?regions=Bihar/Jharkhand,Gujarat,Orissa,MP/Chhattisgarh,Delhi NCR,Uttar Pradesh,TN/Pondicherry,Pun/Har/Cha/HP/J%26K,Maharashtra/Goa,Kerala,Rajasthan,AP/Telangana,North East,Karnataka&date=21-10-16&gender=Male,Female&category=Fuel%2FPetroleum Products&sub_category=Ret Lpg Cylinders&profile=College Adults&duration=15&spot_duration=10&budgets=307384&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=Delhi NCR,North East,Bihar/Jharkhand,Uttar Pradesh,Kerala,Rajasthan,Pun/Har/Cha/HP/J%26K,AP/Telangana,Maharashtra/Goa,Gujarat,TN/Pondicherry&date=21-10-16&gender=Female&category=Personal Accessories&sub_category=Luggage&profile=Elders&duration=10&spot_duration=10&budgets=262779&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=Pun/Har/Cha/HP/J%26K,Delhi NCR,Kerala,Maharashtra/Goa,West Bengal,Gujarat,AP/Telangana,Rajasthan,Uttar Pradesh,MP/Chhattisgarh,TN/Pondicherry,Bihar/Jharkhand,North East,Orissa&date=21-10-16&gender=Female&category=Media&sub_category=Radio Channel Promotions&profile=High Income&duration=88&spot_duration=20&budgets=144070&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=Karnataka,Kerala,AP/Telangana,Rajasthan,North East,Pun/Har/Cha/HP/J%26K,Gujarat,MP/Chhattisgarh,TN/Pondicherry,Bihar/Jharkhand,Delhi NCR,Maharashtra/Goa,West Bengal,Orissa,Uttar Pradesh&date=21-10-16&gender=Male&category=Durables&sub_category=Pressure Cookers%2Felectrical Cookers&profile=High Income&duration=25&spot_duration=30&budgets=179516&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=TN/Pondicherry,Orissa,North East,AP/Telangana,Pun/Har/Cha/HP/J%26K,Gujarat,MP/Chhattisgarh,Bihar/Jharkhand,Karnataka,Uttar Pradesh,Maharashtra/Goa&date=21-10-16&gender=Female&category=Media&sub_category=Radio Channel Promotions&profile=Elders&duration=44&spot_duration=15&budgets=403136&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=Bihar/Jharkhand,Orissa,Uttar Pradesh,TN/Pondicherry,West Bengal,Gujarat,Maharashtra/Goa,Pun/Har/Cha/HP/J%26K,Rajasthan,North East,Kerala,MP/Chhattisgarh,Karnataka,Delhi NCR,AP/Telangana&date=21-10-16&gender=Female&category=Personal Care%2FPersonal Hygiene&sub_category=Personal Care/health %26 Wellness Products&profile=Kids and Teens&duration=71&spot_duration=25&budgets=49011&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=Uttar Pradesh,Bihar/Jharkhand,Kerala,Gujarat,AP/Telangana,Delhi NCR,Maharashtra/Goa,TN/Pondicherry,MP/Chhattisgarh,Rajasthan&date=21-10-16&gender=Male,Female&category=Textiles%2FClothing&sub_category=Sarees&profile=High Income&duration=27&spot_duration=15&budgets=193089&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=North East,Uttar Pradesh,Delhi NCR,Maharashtra/Goa,Pun/Har/Cha/HP/J%26K&date=21-10-16&gender=Male,Female&category=Miscellaneous&sub_category=Events-agriculture&profile=High Income&duration=72&spot_duration=20&budgets=194180&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=Uttar Pradesh,MP/Chhattisgarh,Karnataka,Rajasthan,Bihar/Jharkhand,Gujarat&date=21-10-16&gender=Female&category=Household Products&sub_category=Puja Material&profile=Elders&duration=69&spot_duration=30&budgets=99203&user_id=radhika@amagi.com
+
+
+
+http://localhost:2770/compute-media-package?regions=North East,Pun/Har/Cha/HP/J%26K&date=21-10-16&gender=Male&category=Durables&sub_category=Gas Stoves%2Fcooktops%2Finduction Cookers&profile=Kids and Teens&duration=42&spot_duration=15&budgets=50911&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=Uttar Pradesh,Delhi NCR,West Bengal,Bihar/Jharkhand,Pun/Har/Cha/HP/J%26K&date=21-10-16&gender=Male&category=Food %26 Beverages&sub_category=Papads&profile=College Adults&duration=73&spot_duration=30&budgets=132372&user_id=radhika@amagi.com
+
+
+http://localhost:2770/compute-media-package?regions=MP/Chhattisgarh,Pun/Har/Cha/HP/J%26K,Delhi NCR,Bihar/Jharkhand,Rajasthan,West Bengal,Uttar Pradesh,North East,Karnataka&date=21-10-16&gender=Female&category=Food %26 Beverages&sub_category=Sweets%2Fother Milk Products&profile=Value Conscious&duration=53&spot_duration=15&budgets=68998&user_id=radhika@amagi.com

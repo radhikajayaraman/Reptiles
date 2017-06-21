@@ -1,0 +1,8 @@
+"sub_category":"Agriculture - Farm Equipments","audience_type":["Early Professionals"]}
+"sub_category":"Agriculture - corporate","audience_type":["High Income"]}
+"sub_category":"Agriculture - Fertilizers","audience_type":["Value conscious"]}
+"sub_category":"Agriculture - Others","audience_type":["College Adults"]}
+"sub_category":"Agriculture - Pesticides","audience_type":["Elders"]}
+"sub_category":"Agriculture - Retail","audience_type":["Young Adults"]}
+"sub_category":"Agriculture - Seeds/planting Material","audience_type":["Teens"]}
+"sub_category":"Agriculture - Seeds/planting Material","audience_type":["All Adults"]}
